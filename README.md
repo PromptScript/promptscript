@@ -20,8 +20,8 @@ include: dialogues, storyline filled with twists;
 keep: the viewers in suspense until the end
 
 
-**Easy to Write**
-**Easy to Remember**
+**Easy to Write**-
+**Easy to Remember**-
 **Easy to Script**
 
 
@@ -56,12 +56,12 @@ tags: organic ingredients, made in usa
 
 PrompScript is adaptable and templateable to many creations.
 
-|                |Some Scripts                                         
-|----------------|-------------------------------|-----------------------------|
-||`song` `article` `blog post`  `story` `novel`  `travel guide`  `essay`                
-||`tv shows` `films` `plays`  `speech`  `strategy`  `marketing plan`                     
-||`stable diffusion` `photography scene` `illustration`
-||`recipe` `interview` `speech`  `business plan`   `poem`   `review` 
+Some Scripts                                         
+
+`song` `article` `blog post`  `story` `novel`  `travel guide`  `essay`                
+`tv shows` `films` `plays`  `speech`  `strategy`  `marketing plan`                     
+`stable diffusion` `photography scene` `illustration`
+`recipe` `interview` `speech`  `business plan`   `poem`   `review` 
 
 more coming.
 
