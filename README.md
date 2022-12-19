@@ -13,10 +13,10 @@ Plus, Old way prompting wastes too many words (a.k.a tokens!)
 I want you to act as a screenwriter. You will develop an engaging and creative script for either a feature length film, or a Web Series that can captivate its viewers. Start with coming up with interesting characters, the setting of the story, dialogues between the characters etc. Once your character development is complete - create an exciting storyline filled with twists and turns that keeps the viewers in suspense until the end. 
 
 ## With PromptScript (new way)
-write: script
-for: film
-start with: interesting characters
-include: dialogues, storyline filled with twists
+write: script;
+for: film;
+start with: interesting characters;
+include: dialogues, storyline filled with twists;
 keep: the viewers in suspense until the end
 
 
@@ -29,24 +29,24 @@ keep: the viewers in suspense until the end
 
 ## Example Song Script
 
-create: song
-genre: rock
-theme: happy, hopeful
-include: rem, coldplay as inspirations. animals as love source of life.
-tags: outdoor sports, nature, healthy life
-be: extraordinary
-voice: sweet
-genre: male
-time: 3 mins
+create: song;
+genre: rock;
+theme: happy, hopeful;
+include: rem, coldplay as inspirations. animals as love source of life;
+tags: outdoor sports, nature, healthy life;
+be: extraordinary;
+voice: sweet;
+genre: male;
+time: 3 mins;
 length: max 200 words
 
 
 ## Example Print Ad Script
 
-create: print ad
-brand: soap brand
-theme: funny, genius
-be: extraordinary
+create: print ad;
+brand: soap brand;
+theme: funny, genius;
+be: extraordinary;
 tags: organic ingredients, made in usa
 
 
